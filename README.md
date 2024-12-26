@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735069715/linkedin_main_banner_fbucx8.jpg)
 
 # 💫 About Me:
-Hi there! I'm **Aditya Agarwal**, a penultimate-year software engineering student from India. I’m passionate about crafting meaningful software solutions and exploring the endless possibilities of technology.
+Hi there! I'm **Aditya Agarwal**, a penultimate-year software engineering student from MIT Manipal,India. I’m passionate about crafting meaningful software solutions and exploring the endless possibilities of technology.
 
 🌱 **Currently learning**: AI/ML  
 💻 **Proficient in**: Java, C, HTML, CSS, and JavaScript  
