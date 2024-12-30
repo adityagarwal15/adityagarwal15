@@ -12,6 +12,8 @@ When I’m not coding, I’m brainstorming ways to bridge technology and creativ
 
 Let’s connect and collaborate on meaningful projects! 🤝
 
+🚀 **Check out my portfolio**: [adityagarwal.netlify.app](https://adityagarwal.netlify.app)
+
 ---
 
 ## 🌐 Socials:
