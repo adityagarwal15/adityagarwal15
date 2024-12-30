@@ -1,23 +1,25 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735069715/linkedin_main_banner_fbucx8.jpg)
 
 # 💫 About Me:
-Hi there! I’m **Aditya Agarwal**, a penultimate-year Computer Science and Engineering student at **MIT Manipal, India**. I’m passionate about crafting meaningful software solutions, exploring innovative tech, and merging art with technology.
+Hi there! I’m **Aditya Agarwal** 👨‍💻, a penultimate-year Computer Science and Engineering student at **MIT Manipal, India** 🇮🇳. I’m passionate about crafting meaningful software solutions, exploring innovative tech, and merging art with technology 🎨.
 
 🌱 **Currently Exploring**: AI/ML  
 💻 **Proficient in**: Java, C, HTML, CSS, JavaScript  
-🎨 **Interests**: Web Development, AI/ML, and UI/UX Design  
-🔭 **Projects I’m Working On**: A Memory Game Website and a Simple Event Reminder  
+🎯 **Interests**: Web Development, AI/ML, and UI/UX Design  
+🔭 **Projects I’m Working On**: A Memory Game Website 🎮 and a Simple Event Reminder 📅  
 
-When I’m not coding, I’m brainstorming ways to bridge technology and creativity or exploring thought-provoking discussions on tech ethics and design.  
+When I’m not coding, I’m brainstorming ways to bridge technology and creativity 🤔 or exploring thought-provoking discussions on tech ethics and design 🧠.  
 
-Let’s connect and collaborate on meaningful projects!
+Let’s connect and collaborate on meaningful projects! 🤝
 
 ---
 
 ## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aditya-agarwal-12601b27b/)  
-[![email](https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge)](mailto:adityaagarwal0081@gmail.com)  
-[![instagram](https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/aditya_xup)
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/aditya-agarwal-12601b27b/"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:adityaagarwal0081@gmail.com"><img src="https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
+  <a href="https://instagram.com/aditya_xup"><img src="https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
+</div>
 
 ---
 
@@ -39,10 +41,10 @@ Let’s connect and collaborate on meaningful projects!
 
 ## 🎯 Noteworthy Projects:
 - [**Bugease**](https://github.com/adityagarwal15/bugease)  
-  A tool for tracking and managing bugs efficiently during software development.  
+  A tool for tracking and managing bugs efficiently during software development 🐞.  
 - [**Memory Game**](https://github.com/adityagarwal15/memory-game)  
-  An interactive genre-based memory game with a fun and engaging UI/UX.
-  
+  An interactive genre-based memory game with a fun and engaging UI/UX 🎮.
+
 ---
 
 ![profile visits](https://komarev.com/ghpvc/?username=adityagarwal15&color=blue)
