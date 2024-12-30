@@ -1,45 +1,48 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735069715/linkedin_main_banner_fbucx8.jpg)
 
 # 💫 About Me:
-Hi there! I'm **Aditya Agarwal**, a penultimate-year software engineering student from MIT Manipal, India. I’m passionate about crafting meaningful software solutions and exploring the endless possibilities of technology.
+Hi there! I’m **Aditya Agarwal**, a penultimate-year Computer Science and Engineering student at **MIT Manipal, India**. I’m passionate about crafting meaningful software solutions, exploring innovative tech, and merging art with technology.
 
-🌱 **Currently learning**: AI/ML  
-💻 **Proficient in**: Java, C, HTML, CSS, and JavaScript  
-🔭 **Working on**: My portfolio website and exciting personal projects  
-💡 **Interests**: Web development and AI/ML  
-🌍 **Check out my portfolio**: [adityagarwal.netlify.app](https://adityagarwal.netlify.app)
+🌱 **Currently Exploring**: AI/ML  
+💻 **Proficient in**: Java, C, HTML, CSS, JavaScript  
+🎨 **Interests**: Web Development, AI/ML, and UI/UX Design  
+🔭 **Projects I’m Working On**: A Memory Game Website and a Simple Event Reminder  
 
-When I’m not coding, you’ll find me exploring new tech, reading, or brainstorming innovative solutions to everyday challenges. 🚀
+When I’m not coding, I’m brainstorming ways to bridge technology and creativity or exploring thought-provoking discussions on tech ethics and design.  
 
 Let’s connect and collaborate on meaningful projects!
 
-📫 **How to Reach Me**: adityaagarwal0081@gmail.com
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agarwal-12601b27b/)  
-
-# 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-# 📊 GitHub Stats:
-## My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityagarwal15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagarwal15&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagarwal15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aditya-agarwal-12601b27b/)  
+[![email](https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge)](mailto:adityaagarwal0081@gmail.com)  
+[![instagram](https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge)](https://instagram.com/aditya_xup)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=adityagarwal15&icon=4&color=1)](https://visitcount.itsvg.in)
+# 💻 Tech Stack:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🎯 Noteworthy Projects:
+- [**Bugease**](https://github.com/adityagarwal15/bugease)  
+  A tool for tracking and managing bugs efficiently during software development.  
+- [**Memory Game**](https://github.com/adityagarwal15/memory-game)  
+  An interactive genre-based memory game with a fun and engaging UI/UX.
+  
+---
+
+![profile visits](https://komarev.com/ghpvc/?username=adityagarwal15&color=blue)
