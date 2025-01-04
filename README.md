@@ -43,7 +43,7 @@ Let’s connect and collaborate on meaningful projects! 🤝
 
 ## 🎯 Noteworthy Projects:
 - [**Bugease**](https://github.com/adityagarwal15/bugease)  
-  A tool for tracking and managing bugs efficiently during software development 🐞.  
+  A tool for tracking and managing buggy efficiently in the college 🚗.  
 - [**Memory Game**](https://github.com/adityagarwal15/memory-game)  
   An interactive genre-based memory game with a fun and engaging UI/UX 🎮.
 
