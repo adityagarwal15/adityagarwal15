@@ -18,7 +18,7 @@ Let’s connect and collaborate on meaningful projects! 🤝
 
 ## 🌐 Socials:
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/aditya-agarwal-12601b27b/"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/adityagarwal15/"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:adityaagarwal0081@gmail.com"><img src="https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
   <a href="https://instagram.com/aditya_xup"><img src="https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
 </div>
