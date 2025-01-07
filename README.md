@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735069715/linkedin_main_banner_fbucx8.jpg)
+![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1736276317/FINAL_BANNER_ynuska.png)
 
 # 💫 About Me:
 Hi there! I’m **Aditya Agarwal** 👨‍💻, a penultimate-year Computer Science and Engineering student at **MIT Manipal, India** 🇮🇳. I’m passionate about crafting meaningful software solutions, exploring innovative tech, and merging art with technology 🎨.
