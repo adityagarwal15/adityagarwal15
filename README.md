@@ -6,7 +6,7 @@ Hi there! I’m **Aditya Agarwal** 👨‍💻, a penultimate-year Computer Scie
 🌱 **Currently Exploring**: AI/ML  
 💻 **Proficient in**: Java, C, HTML, CSS, JavaScript  
 🎯 **Interests**: Web Development, AI/ML, and UI/UX Design  
-🔭 **Projects I’m Working On**: A Memory Game Website 🎮 and a Simple Event Reminder 📅  
+🔭 **Projects I’m Working On**: A Memory Game Website 🎮 and a Zenclock 🕒 
 
 When I’m not coding, I’m brainstorming ways to bridge technology and creativity 🤔 or exploring thought-provoking discussions on tech ethics and design 🧠.  
 
