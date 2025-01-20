@@ -43,9 +43,9 @@ Let’s connect and collaborate on meaningful projects! 🤝
 ---
 
 ## 🎯 Noteworthy Projects:
-- [**Bugease**](https://github.com/adityagarwal15/bugease)  
+- [**Bugease**](https://github.com/adityagarwal15/BUGEASE)  
   A tool for tracking and managing buggy efficiently in the college 🚗.  
-- [**Zenclock**](https://github.com/adityagarwal15/memory-game)  
+- [**Zenclock**](https://github.com/adityagarwal15/ZENCLOCK)  
   An interactive productivity tool with a fun and engaging UI/UX 🎮.
 
 ---
