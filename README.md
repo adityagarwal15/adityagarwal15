@@ -6,7 +6,7 @@ Hi there! I’m **Aditya Agarwal** 👨‍💻, a penultimate-year Computer Scie
 🌱 **Currently Exploring**: AI/ML  
 💻 **Proficient in**: Java, C, HTML, CSS, JavaScript  
 🎯 **Interests**: Web Development, AI/ML, and UI/UX Design  
-🔭 **Projects I’m Working On**: A Memory Game Website 🎮 and a Zenclock 🕒 
+🔭 **Projects I’m Working On**: JobSync 👜 and a Zenclock 🕒 
 
 When I’m not coding, I’m brainstorming ways to bridge technology and creativity 🤔 or exploring thought-provoking discussions on tech ethics and design 🧠.  
 
@@ -24,7 +24,7 @@ Let’s connect and collaborate on meaningful projects! 🤝
 </div>
 
 ---
-
+## 🌐 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
