@@ -1,6 +1,6 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1736276317/FINAL_BANNER_ynuska.png)
 
-<h1 align="center">Hey, I'm Aditya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"Building ideas that make an impact! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🌟 About Me  
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
