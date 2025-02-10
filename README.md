@@ -1,53 +1,47 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1736276317/FINAL_BANNER_ynuska.png)
 
-# 💫 About Me:
-Hi there! I’m **Aditya Agarwal** 👨‍💻, a penultimate-year Computer Science and Engineering student at **MIT Manipal, India** 🇮🇳. I’m passionate about crafting meaningful software solutions, exploring innovative tech, and merging art with technology 🎨.
+<h1 align="center">Hey, I'm Aditya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🌱 **Currently Exploring**: AI/ML  
-💻 **Proficient in**: Java, C, HTML, CSS, JavaScript  
-🎯 **Interests**: Web Development, AI/ML, and UI/UX Design  
-🔭 **Projects I’m Working On**: JobSync 👜 and a Zenclock 🕒 
+## 🌟 About Me  
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
-When I’m not coding, I’m brainstorming ways to bridge technology and creativity 🤔 or exploring thought-provoking discussions on tech ethics and design 🧠.  
-
-Let’s connect and collaborate on meaningful projects! 🤝
-
-🚀 **Check out my portfolio**: [adityagarwal.netlify.app](https://adityagarwal.netlify.app)
-
----
-
-## 🌐 Socials:
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/adityagarwal15/"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:adityaagarwal0081@gmail.com"><img src="https://img.shields.io/badge/-email-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
-  <a href="https://instagram.com/aditya_xup"><img src="https://img.shields.io/badge/-instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
-</div>
+- 🎓 **Computer Science & Engineering Student** at [MIT Manipal](https://manipal.edu/mu.html) 🇮🇳  
+- 🚀 Passionate about **Web Development, AI/ML, and UI/UX Design**  
+- 🌱 Currently exploring **AI/ML** and enhancing my **full-stack development** skills  
+- 🔭 Working on **JobSync 👜** & **ZenClock 🕒**  
+- 🎨 Blending **technology & creativity** to craft meaningful solutions  
+- 🤝 Open to collaborations on **exciting projects**  
+- 📬 Contact me at **[adityaagarwal0081@gmail.com](mailto:adityaagarwal0081@gmail.com)**  
 
 ---
-## 🌐 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237A1F2A.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-%234F2C63.svg?style=for-the-badge&logo=gsap&logoColor=white" />
-</div>
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adityagarwal15/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adityaagarwal0081@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aditya_xup)  
+[![Portfolio](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735244853/favicon_ka3ikk.png)](https://adityagarwal.netlify.app)
 
 
 ---
 
-## 🎯 Noteworthy Projects:
-- [**Bugease**](https://github.com/adityagarwal15/BUGEASE)  
-  A tool for tracking and managing buggy efficiently in the college 🚗.  
-- [**Zenclock**](https://github.com/adityagarwal15/ZENCLOCK)  
-  An interactive productivity tool with a fun and engaging UI/UX 🎮.
+## 🛠 Tech Stack  
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,react,nodejs,express,mongodb" />
+</p>
+
+### **Tools & Platforms**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bootstrap,gsap" />
+</p>
 
 ---
 
-![profile visits](https://komarev.com/ghpvc/?username=adityagarwal15&color=blue)
+## 🚀 Noteworthy Projects  
+- [**Bugease**](https://github.com/adityagarwal15/BUGEASE) - A tool for efficiently tracking and managing buggies in college 🚗.  
+- [**ZenClock**](https://github.com/adityagarwal15/ZENCLOCK) - A productivity tool with an engaging UI/UX 🎮.  
+
+---
+
+![Profile Visits](https://komarev.com/ghpvc/?username=adityagarwal15&color=blue)
