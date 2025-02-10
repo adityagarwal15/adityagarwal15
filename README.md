@@ -1,6 +1,6 @@
 ![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1736276317/FINAL_BANNER_ynuska.png)
 
-<h1 align="center">Building Impactful Ideas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+---
 
 ## 🌟 About Me  
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
@@ -18,12 +18,11 @@
 
 ## 🌐 Connect with Me  
 
-<p align="center">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adityagarwal15/)
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adityaagarwal0081@gmail.com)
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aditya_xup)
-  [![Portfolio](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1735244853/favicon_ka3ikk.png)](https://adityagarwal.netlify.app)
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/adityagarwal15/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="display:inline-block; margin-right: 15px;" /></a>
+  <a href="mailto:adityaagarwal0081@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="display:inline-block; margin-right: 15px;" /></a>
+  <a href="https://instagram.com/aditya_xup"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="display:inline-block; margin-right: 15px;" /></a>
+</div>
 
 ---
 
