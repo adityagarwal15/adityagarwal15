@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1736276317/FINAL_BANNER_ynuska.png)
+![Banner](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1747424139/blue_banner_wpqvil.jpg)
 
 ---
 
