@@ -42,7 +42,7 @@
 
 ## 🚀 Noteworthy Projects  
 - [**JobSync**](https://github.com/adityagarwal15/JobSync) - An AI-driven job portal that matches job seekers with the right opportunities. 👜  
-- [**Bugease**](https://github.com/adityagarwal15/BUGEASE) - A tool for efficiently tracking and managing bugs in college projects. 🚗  
+- [**Bugease**](https://github.com/adityagarwal15/BUGEASE) - A tool for efficiently tracking and managing buggies in college campus. 🚗  
 - [**BalancedPitch**](https://github.com/adityagarwal15/BalancedPitch) - An AI Transparency Advocacy Platform focusing on artist rights and AI transparency.🎵 
 
 ---
